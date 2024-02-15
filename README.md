@@ -1,4 +1,4 @@
-# DMA2024TeamA
+# MAP-COV (DMA2024TeamA)
 ## :de: German Version <br>
 Im geplanten Projekt soll die Wahrscheinlichkeit an Covid-19 zu erkranken, retrospektiv auf Basis von synthetischen Daten untersucht werden. Ein besonderes Augenmerk soll dabei auf den Wohnort der Patienten gelegt werden. Zu diesem Zweck werden wir auf die Bevölkerungszahlen der Counties von Massachusetts zurückgreifen, welche unter [World Population Review](https://worldpopulationreview.com/states/massachusetts/counties ) bereitgestellt wurden.
 
