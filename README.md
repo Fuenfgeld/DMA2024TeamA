@@ -14,7 +14,7 @@ Zu diesem Zweck werden die Daten extrahiert und in einer Datenbank abgelegt.
 Im nächsten Schritt wird ein [Data Warehouse](https://github.com/Fuenfgeld/DMA2024TeamA/blob/main/Skripte/2_Extract%20from%20source%20DB%20into%20DWH.ipynb) erstellt, auf das zugegriffen wird um ein Factsheet mit den Daten zu erstellen, die für weitergehende Analysen genutzt werden.
 Begleitend wird ein [Datenmanagementplan](https://github.com/Fuenfgeld/DMA2024TeamA/wiki/Datenmanagementplan) geführt.
 
-Das Team besteht aus Jan-Erik Weixler, Christiane Vieweg, Ute Mauer und Alissia Kuhl und entwickelt unter der Anleitung von Maximilian Fünfgeld im Kurs Datenmanagement und Archivierung im Umfeld der Forschung im [Master BIDS Programm](https://www.master-bids.hs-mannheim.de/) der [Graduate School Rhein-Neckar](gsrn.de) in Zusammenarbeit mit der [Hochschule Mannheim](https://www.hs-mannheim.de/). 
+Das Team besteht aus Jan-Erik Weixler, Christiane Vieweg, Ute Mauer und Alissia Kuhl und entwickelt unter der Anleitung von Maximilian Fünfgeld im Kurs Datenmanagement und Archivierung im Umfeld der Forschung im [Master BIDS Programm](https://www.master-bids.hs-mannheim.de/) der [Graduate School Rhein-Neckar]([gsrn.de](https://gsrn.de/studienangebote/biomedizinische-informatik-data-science/)) in Zusammenarbeit mit der [Hochschule Mannheim](https://www.hs-mannheim.de/). 
 *** 
 
 ## :gb: English Version <br>
@@ -32,4 +32,4 @@ For this purpose, the data is extracted and stored in a database.
 In the next step, a [data warehouse](https://github.com/Fuenfgeld/DMA2024TeamA/blob/main/Skripte/2_Extract%20from%20source%20DB%20into%20DWH.ipynb) will be created, which will be accessed to create a factsheet with the data that will be used for further analysis.
 This is accompanied by a [data management plan](https://github.com/Fuenfgeld/DMA2024TeamA/wiki/Datenmanagementplan).
 
-The team consists of Jan-Erik Weixler, Christiane Vieweg, Ute Mauer and Alissia Kuhl and develops under the guidance of Maximilian Fünfgeld in the course Data Management and Archiving in the Research Environment in the [Master BIDS program](https://www.master-bids.hs-mannheim.de/) of the [Graduate School Rhein-Neckar](gsrn.de) in cooperation with the [Mannheim University of Applied Sciences](https://www.hs-mannheim.de/). 
+The team consists of Jan-Erik Weixler, Christiane Vieweg, Ute Mauer and Alissia Kuhl and develops under the guidance of Maximilian Fünfgeld in the course Data Management and Archiving in the Research Environment in the [Master BIDS program](https://www.master-bids.hs-mannheim.de/) of the [Graduate School Rhein-Neckar]([gsrn.de](https://gsrn.de/studienangebote/biomedizinische-informatik-data-science/)) in cooperation with the [Mannheim University of Applied Sciences](https://www.hs-mannheim.de/). 
