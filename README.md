@@ -9,7 +9,7 @@ Im geplanten Projekt soll die Wahrscheinlichkeit an Covid-19 zu erkranken, retro
 
 Durch die Beantwortung der letzten Forschungsfrage soll ein serverity Score etabliert werden, welcher auch zur Beantwortung der anderen beiden Fragen herangezogen werden soll. 
 
-Mithilfe von Python und SQL Abfragen sollen die Forschungsfragen auf Basis der von [GitHub Synthea](https://github.com/synthetichealth/synthea/wiki/CSV-File-Data-Dictionary#patients) bereitgestellten Daten analysiert werden. 
+Mithilfe von Python und SQL Abfragen sollen die Forschungsfragen auf Basis der von [GitHub Synthea](https://github.com/synthetichealth/synthea/wiki/CSV-File-Data-Dictionary) bereitgestellten Daten analysiert werden. 
 Zu diesem Zweck werden die Daten extrahiert und in einer Datenbank abgelegt. 
 Im nächsten Schritt wird ein [Data Warehouse](https://github.com/Fuenfgeld/DMA2024TeamA/blob/main/Skripte/2_Extract%20from%20source%20DB%20into%20DWH.ipynb) erstellt, auf das zugegriffen wird um ein Factsheet mit den Daten zu erstellen, die für weitergehende Analysen genutzt werden.
 Begleitend wird ein [Datenmanagementplan](https://github.com/Fuenfgeld/DMA2024TeamA/wiki/Datenmanagementplan) geführt.
